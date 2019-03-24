@@ -13,7 +13,6 @@ To help me answer these questions, I have access to a dataset of listings data t
 ## Files included in project
 
 - airbnb.ipynb: Notebook of code of the study
-- listings.csv: CSV file of Airbnb listings data for Seattle
 - README.md: This readme file
 
 ## Code libraries used in project
